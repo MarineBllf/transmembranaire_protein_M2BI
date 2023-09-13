@@ -1,0 +1,13 @@
+name : env_TM
+channels :
+    - conda-forge
+    - bioconda
+    - salilab
+    - defaults
+dependencies : 
+    - python=3.8
+    - numpy
+    - Biopython 
+    - matplotlib
+    - dssp
+    
