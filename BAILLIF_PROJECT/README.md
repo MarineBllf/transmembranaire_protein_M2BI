@@ -1,5 +1,5 @@
 BAILLIF MARINE
-Project : ASSIGNATION ET DETECTION DES PARTIES 
+Project : ASSIGNATION ET DETECTION DES PARTIES TRANSMEMBRANAIRES D'UNE PROTEINE
 
 
 This program is used to detect the transmembrane segments of a protein.
