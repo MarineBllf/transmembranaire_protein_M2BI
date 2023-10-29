@@ -32,8 +32,8 @@ Change your current directory to the download directory (project) and then run t
 command line to install the necessary environment and activate it :
 
 ```
-conda env create -f  src/environment_TM.yml
-conda activate environment_TM
+conda env create -f  ./environment_TM.yml
+conda activate env_TM
 ```
 
 ### Virtual environment
